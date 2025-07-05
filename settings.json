@@ -1,0 +1,9 @@
+{
+    "workbench.startupEditor": "none",
+    "window.titleBarStyle": "native",
+    "window.commandCenter": false,
+    "workbench.layoutControl.enabled": false,
+    "files.autoSave": "onFocusChange",
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+}
